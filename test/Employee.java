@@ -5,7 +5,7 @@ public class Employee implements Comparable<Employee> {
 	private int id;
 	private String name;
 	private String lastname;
-	private int age;
+	private int age123;
 	
 	public Employee(int id, String name) {
 		super();
